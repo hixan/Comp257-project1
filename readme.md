@@ -1,5 +1,5 @@
 # Analysis on some racing data
-this was an assignment for *COMP257 - Data science*. The task was to perform a basic analysis of the data.
+this was an assignment for *COMP257 - Data science*. The task was to perform a basic analysis of the provided dataset.
 ## Basic Questions
 
 * What is the average speed of the rider?
